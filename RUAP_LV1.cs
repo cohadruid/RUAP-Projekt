@@ -10,7 +10,7 @@ namespace RUAP_aplikacija
     {
         static void Main(string[] args)
         {
-            Console.Write("Pozdrav iz aplikacije od Darija Corica, R3629");
+            Console.Write("Pozdrav iz aplikacije od Darija Corica");
         }
     }
 }
